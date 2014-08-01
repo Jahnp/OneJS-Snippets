@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+js-repeat="${3:${1:key} in ${2:array}}"${4}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jsr</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
