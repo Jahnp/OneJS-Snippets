@@ -17,5 +17,5 @@ Then in Sublime in a OneJS template, type any of the following:
 * ***jst*** - expands to a js-type attribute
 * ***jsc*** - expands to a js-css attribute
 * ***jsm*** - expands to a js-model attribute
-* 
+
 
